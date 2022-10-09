@@ -1,4 +1,5 @@
 // Basic Routers 
+
 // 1.npm i react-router-dom
 // 2.create a router using CreateBrowserRouter
 // 3.add RouteProvider and set router prop
@@ -7,3 +8,9 @@
 // 6.set main layout at the root of the route
 // 7.set children routes
 // 8.set link on the header components
+
+
+
+// Contex Api
+// 1.declear Api
+// 2.set Provider
