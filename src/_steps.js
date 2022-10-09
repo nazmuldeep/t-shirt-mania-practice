@@ -13,4 +13,5 @@
 
 // Contex Api
 // 1.declear Api
-// 2.set Provider
+// 2.set Provider with values
+// 3.useContext in this place where you want to get context
